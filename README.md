@@ -1,2 +1,2 @@
 # carabanas-js
-html form with js validations for camper booking
+html based on bootstrap form with js validations for camper booking
